@@ -805,6 +805,13 @@
 					border-left: 0;
 				}
 
+p strong {
+	font-weight: bold;
+}
+
+p.extra {
+	font-size: 75%;
+}
 /* Wrapper */
 
 	#wrapper {
